@@ -1,2 +1,9 @@
 add new line 1
 add new line 2
+<<<<<<< HEAD
+add new line 3
+add new line 4
+add new line 5
+=======
+add new line 3
+>>>>>>> parent of b3439ad... Sua lan 4
